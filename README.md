@@ -13,7 +13,7 @@ O objetivo é mostrar como é fácil utilizar o framework para criar uma página
 Para utilizar este projeto, basta clonar o repositório para a sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/dio-bootstrap.git
+git clone https://github.com/LeandroSCoutinho/dio-bootstrap.git
 ```
 
 Em seguida, basta abrir o arquivo index.html em um navegador web para visualizar a página.  
